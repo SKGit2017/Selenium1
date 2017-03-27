@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename package &apos;com.osf.commonlib&apos; to &apos;com.osf.objectrepository&apos;&#x0D;&#x0A;- Original project: &apos;SeleniumProject&apos;&#x0D;&#x0A;- Original element: &apos;SeleniumProject/src/com.osf.commonlib&apos;&#x0D;&#x0A;- Renamed element: &apos;SeleniumProject/src/com.osf.objectrepository&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename package &apos;com.osf.commonlib&apos;" flags="589830" hierarchical="false" id="org.eclipse.jdt.ui.rename.package" input="/src&lt;com.osf.commonlib" name="com.osf.objectrepository" qualified="false" references="true" stamp="1485506588110" textual="false" version="1.0"/>
+</session>
